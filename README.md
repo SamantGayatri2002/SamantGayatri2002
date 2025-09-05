@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me  
 📧 [gayatrisamant05@gmail.com](mailto:gayatrisamant05@gmail.com)  
-💼 [LinkedIn](linkedin.com/in/gayatri-samant-0b4362252)  
+💼 [LinkedIn](https://www.linkedin.com/in/gayatri-samant-0b4362252)  
 💻 [GitHub Portfolio](https://github.com/SamantGayatri2002)  
 
 ---
