@@ -1,7 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-#  I'm Gayatri Samant  
-![pic](https://github.com/user-attachments/assets/ceeff888-6fdf-4a2b-80c8-5f3492d43fdf)
+##  I'm Gayatri Samant  
+
+![profile_photo](https://github.com/user-attachments/assets/645c72ae-e12a-48ac-876d-277013d6bb17)
+
 
 
 🎓 **Aspiring Bioinformatics Researcher | Genomics & Public Health**  
@@ -37,15 +39,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamantGayatri2002&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamantGayatri2002&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with Me  
 📧 [gayatrisamant05@gmail.com](mailto:gayatrisamant05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com) *(Add your profile link here)*  
+💼 [LinkedIn](linkedin.com/in/gayatri-samant-0b4362252)  
 💻 [GitHub Portfolio](https://github.com/SamantGayatri2002)  
 
 ---
