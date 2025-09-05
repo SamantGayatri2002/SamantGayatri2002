@@ -2,7 +2,11 @@
 
 ##  I'm Gayatri Samant  
 
-![profile_photo](https://github.com/user-attachments/assets/645c72ae-e12a-48ac-876d-277013d6bb17)
+<img src="https://github.com/user-attachments/assets/1eb8577f-c423-427b-b25d-52e5690fe77f" alt="Gayatri Samant" width="600"/>
+
+
+
+
 
 
 
