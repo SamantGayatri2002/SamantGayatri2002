@@ -15,8 +15,7 @@
       </p>
       <p>
         <a href="mailto:gayatrisamant05@gmail.com">📧 Email</a> •
-        <a href="https://www.linkedin.com/in/gayatri-samant-0b4362252">💼 LinkedIn</a> •
-        <a href="https://github.com/SamantGayatri2002">💻 GitHub</a>
+        <a href="https://www.linkedin.com/in/gayatri-samant-0b4362252">💼 LinkedIn</a> 
       </p>
     </td>
   </tr>
