@@ -1,67 +1,170 @@
-# Hi there 👋
 
-##  I'm Gayatri Samant  
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://github.com/user-attachments/assets/1eb8577f-c423-427b-b25d-52e5690fe77f"
+           alt="Gayatri Samant"
+           width="160"
+           style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h2>Hi, I’m Gayatri Samant 👋</h2>
+      <p>
+        🎓 <b>Bioinformatics Intern @ Vizzhy</b><br>
+        🧬 Working across genomics, transcriptomics, epigenomics & lipidomics<br>
+        🔬 Learning through real datasets, reproducible workflows, and careful reporting
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/1eb8577f-c423-427b-b25d-52e5690fe77f" alt="Gayatri Samant" width="500"/>
-
-
-
-
-
-
-
-🎓 **Aspiring Bioinformatics Researcher | Genomics & Public Health**  
-🔬 Passionate about uncovering insights from biological data using **NGS analysis, computational biology, and machine learning**.  
-
----
-
-## 🚀 About Me  
-- 🧬 Completed **M.Sc. in Bioinformatics** with strong academic performance (CGPA: 8.93).  
-- 🔎 Experienced in **analyzing NGS datasets** (WES, RNA-seq, microarray, metagenomics) through reproducible pipelines.  
-- 💻 Skilled in **Python, R, Bash, Linux/Unix, Docker** for bioinformatics and data science applications.  
-- 🤝 Open to research and industry collaborations in **computational genomics, transcriptomics, and clinical bioinformatics**.  
-- 🌟 Keen to apply bioinformatics for **translational genomics, precision medicine, and public health**.  
 
 ---
 
-## 🛠️ Skills  
-**Programming & Scripting**: Python, R, Bash  
-**NGS & Genomics**: RNA-seq, WES, WGS, DEG analysis, variant calling, metagenomics  
-**Pipelines & Tools**: HISAT2, BWA, samtools, GATK, bcftools, DESeq2, limma, Kraken2, Bracken, QIIME2, Docker  
-**Databases**: NCBI, Ensembl, UniProt, GeneCards, STRING, PDBsum  
-**Machine Learning**: kNN, SVM, Random Forest  
-**Visualization**: PCA, Heatmaps, Volcano plots, Pathway Enrichment  
+## 🧬 About Me
+
+I am a **Bioinformatics Intern**, with a strong academic foundation and growing industry exposure.  
+My journey began in **Bioinformatics**, not computational biology, and I am steadily expanding my computational skills through real datasets and applied projects.
+
+I completed my **M.Sc. in Bioinformatics (CGPA: 8.93)** and transitioned directly into my **first professional role** as a **Bioinformatics Intern at Vizzhy**, where I am gaining hands-on experience with real-world omics data and reporting practices.
+
+> I value clarity, reproducibility, and honest representation of scientific work.
 
 ---
 
-## 📂 Projects & Experience  
-- 🧬 **Variant Calling in Ewing Sarcoma (WES)** – Built a reproducible clinical genomics pipeline (BWA, GATK, Ensembl VEP, SnpEff).  
-- 🔎 **RNA-Seq Hypoxia Study** – Analyzed 20 runs from prostate cancer cell lines, performed DEG analysis (DESeq2), PCA, heatmaps, volcano plots, and pathway enrichment.  
-- 🤖 **Cervical Cancer DEG with ML** – Applied classification models (SVM, Random Forest, kNN) to microarray-based gene expression data.  
-- 🦠 **Metagenomics Pipelines** – Performed taxonomic classification and abundance profiling using Kraken2, Bracken, and QIIME2.  
-- 🧪 **In-Silico CRISPR-Cas13 Dengue Detection** – Designed guide RNAs, validated RNA structures, and checked off-targets for virus detection feasibility.  
+## 🌿 Current Role
+
+### 🧬 Bioinformatics Intern — **Vizzhy**  
+📅 *Oct 2025 – Present*  
+📌 *First professional role after graduation*
+
+At Vizzhy, I am learning how bioinformatics is applied in an industry setting, beyond academic coursework.
+
+**My work involves:**
+- Understanding and handling **real biological datasets**
+- Supporting **end-to-end omics analysis workflows**
+- Working with **genomics and lipidomics data**
+- Organizing **intermediate and final result files** for traceability
+- Assisting with **data validation and scientific reporting**
+- Learning best practices for **workflow documentation and reproducibility**
+
+This role is helping me bridge **academic bioinformatics knowledge with applied industry expectations**.
 
 ---
 
-## 🌐 Connect with Me  
-📧 [gayatrisamant05@gmail.com](mailto:gayatrisamant05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/gayatri-samant-0b4362252)  
-💻 [GitHub Portfolio](https://github.com/SamantGayatri2002)  
+## 📂 Projects & Repositories
+
+This GitHub profile documents my **academic projects, self-driven learning, and industry-influenced work**.
 
 ---
 
-✨ *"Turning biological data into meaningful insights through bioinformatics and computational genomics."*  
-<!--
-**SamantGayatri2002/SamantGayatri2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Clinical-genomics-
+**Whole Exome Sequencing (WES) – Ewing Sarcoma**
 
-Here are some ideas to get you started:
+- End-to-end variant calling and annotation pipeline
+- Alignment → variant calling → annotation
+- Tools: BWA, GATK, samtools, Ensembl VEP, SnpEff
+- Focus on understanding each step of a **clinical genomics workflow**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 *Dissertation-based project*
+
+---
+
+### 📈 Bulk-RNA-Seq-Data-Analysis
+**Bulk RNA-Seq Analysis from Raw Data**
+
+- RNA-seq analysis starting from SRA files
+- Quality control, alignment, count generation
+- Differential gene expression analysis
+- Visualization: PCA, heatmaps, volcano plots
+
+📌 *Transcriptomics workflow with reproducibility focus*
+
+---
+
+### 🧪 Cervical-Cancer-DEG-Analysis-Using-ML
+**Gene Expression Analysis with Machine Learning**
+
+- DEG analysis from microarray data
+- Applied ML models: SVM, Random Forest, kNN
+- Focused on biological interpretation alongside model performance
+
+---
+
+### 🩺 Breast_Cancer_Data_Analysis_Using_ML
+**Exploratory Cancer Gene Expression Project**
+
+- Data preprocessing and exploratory analysis
+- Classification models and evaluation
+- Learning-oriented project to strengthen ML concepts
+
+---
+
+### 🧬 DNA Methylation Analysis *(Post-Vizzhy)*
+- Analysis of methylation datasets
+- Understanding epigenetic regulation and data interpretation
+- Focus on workflow structure and result reporting
+
+---
+
+### 🧬 ChIP-Seq Analysis *(Post-Vizzhy)*
+- Peak calling and downstream interpretation
+- Linking protein–DNA interactions to gene regulation
+- Strengthening epigenomics fundamentals
+
+---
+
+### 🧪 Lipidomics Data Analysis *(Post-Vizzhy)*
+- Exposure to lipidomics workflows and data formats
+- Understanding quality control, annotation, and reporting
+- Learning challenges specific to lipidomics data standardization
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Programming & Environment
+Python | R | Bash | Linux/Unix | Docker
+
+### 🧬 Bioinformatics Domains
+Genomics | Transcriptomics | Epigenomics | Metagenomics | Lipidomics
+
+### 🔧 Tools & Pipelines
+HISAT2 | BWA | samtools | GATK  
+DESeq2 | limma  
+Kraken2 | Bracken | QIIME2  
+Ensembl VEP | SnpEff
+
+### 📊 Data Analysis & Visualization
+PCA | Heatmaps | Volcano plots | Pathway enrichment
+
+### 🤖 Introductory Machine Learning
+SVM | Random Forest | kNN  
+*(Applied to biological datasets)*
+
+### 🗃 Databases
+NCBI | Ensembl | UniProt | GeneCards | STRING | PDBsum
+
+---
+
+## 🧠 What I’m Actively Learning
+
+- Clinical and translational bioinformatics  
+- Epigenomics data interpretation  
+- Lipidomics analysis and reporting standards  
+- Workflow validation and documentation  
+- Scientific communication and clear reporting  
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email**: gayatrisamant05@gmail.com  
+💼 **LinkedIn**: linkedin.com/in/gayatri-samant-0b4362252  
+💻 **GitHub**: github.com/SamantGayatri2002  
+
+---
+
+✨ *“I’m building my bioinformatics journey carefully — with honesty, curiosity, and strong foundations.”*
+
+
