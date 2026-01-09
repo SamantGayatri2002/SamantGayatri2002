@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td width="180">
@@ -11,44 +10,46 @@
       <h2>Hi, I’m Gayatri Samant 👋</h2>
       <p>
         🎓 <b>Bioinformatics Intern @ Vizzhy</b><br>
-        🧬 Working across genomics, transcriptomics, epigenomics & lipidomics<br>
+        🧬 Genomics • Transcriptomics • Epigenomics • Lipidomics<br>
         🔬 Learning through real datasets, reproducible workflows, and careful reporting
+      </p>
+      <p>
+        <a href="mailto:gayatrisamant05@gmail.com">📧 Email</a> •
+        <a href="https://www.linkedin.com/in/gayatri-samant-0b4362252">💼 LinkedIn</a> •
+        <a href="https://github.com/SamantGayatri2002">💻 GitHub</a>
       </p>
     </td>
   </tr>
 </table>
 
-
 ---
 
 ## 🧬 About Me
 
-I am a **Bioinformatics Intern**, with a strong academic foundation and growing industry exposure.  
-My journey began in **Bioinformatics**, not computational biology, and I am steadily expanding my computational skills through real datasets and applied projects.
+I am a **Bioinformatics graduate** currently working as a **Bioinformatics Intern at Vizzhy**.  
+My background is rooted in **bioinformatics**, and I am gradually strengthening my computational skills through hands-on projects and real-world omics datasets.
 
-I completed my **M.Sc. in Bioinformatics (CGPA: 8.93)** and transitioned directly into my **first professional role** as a **Bioinformatics Intern at Vizzhy**, where I am gaining hands-on experience with real-world omics data and reporting practices.
+I completed my **M.Sc. in Bioinformatics (CGPA: 8.93)** and moved directly into industry to understand how biological data is **analyzed, validated, and reported** beyond academic settings.
 
-> I value clarity, reproducibility, and honest representation of scientific work.
+> I care deeply about clarity, reproducibility, and honest scientific work.
 
 ---
 
 ## 🌿 Current Role
 
-### 🧬 Bioinformatics Intern — **Vizzhy**  
-📅 *Oct 2025 – Present*  
-📌 *First professional role after graduation*
+### 🧬 Bioinformatics Intern — **Vizzhy**
+📅 *Oct 2025 – Present*
 
-At Vizzhy, I am learning how bioinformatics is applied in an industry setting, beyond academic coursework.
+At Vizzhy, I am learning how bioinformatics workflows operate in practice, beyond coursework and tutorials.
 
 **My work involves:**
-- Understanding and handling **real biological datasets**
-- Supporting **end-to-end omics analysis workflows**
-- Working with **genomics and lipidomics data**
-- Organizing **intermediate and final result files** for traceability
-- Assisting with **data validation and scientific reporting**
-- Learning best practices for **workflow documentation and reproducibility**
+- 🧪 Working with real-world omics datasets  
+- 🔁 Supporting end-to-end analysis workflows  
+- 🧬 Exposure to genomics and lipidomics data  
+- 🗂 Organizing intermediate and final results for traceability  
+- 📝 Assisting with validation, documentation, and reporting  
 
-This role is helping me bridge **academic bioinformatics knowledge with applied industry expectations**.
+This role is helping me connect **academic bioinformatics concepts with applied industry workflows**.
 
 ---
 
@@ -60,64 +61,51 @@ This GitHub profile documents my **academic projects, self-driven learning, and 
 
 ### 🧬 Clinical-genomics-
 **Whole Exome Sequencing (WES) – Ewing Sarcoma**
-
-- End-to-end variant calling and annotation pipeline
-- Alignment → variant calling → annotation
-- Tools: BWA, GATK, samtools, Ensembl VEP, SnpEff
-- Focus on understanding each step of a **clinical genomics workflow**
-
+- Variant calling and annotation pipeline  
+- Tools: BWA, GATK, samtools, Ensembl VEP, SnpEff  
+- Focus on understanding each step of a clinical genomics workflow  
 📌 *Dissertation-based project*
 
 ---
 
 ### 📈 Bulk-RNA-Seq-Data-Analysis
 **Bulk RNA-Seq Analysis from Raw Data**
-
-- RNA-seq analysis starting from SRA files
-- Quality control, alignment, count generation
-- Differential gene expression analysis
-- Visualization: PCA, heatmaps, volcano plots
-
-📌 *Transcriptomics workflow with reproducibility focus*
+- QC → alignment → count generation → DEG analysis  
+- PCA, heatmaps, volcano plots  
+📌 *Reproducible transcriptomics workflow*
 
 ---
 
 ### 🧪 Cervical-Cancer-DEG-Analysis-Using-ML
 **Gene Expression Analysis with Machine Learning**
-
-- DEG analysis from microarray data
-- Applied ML models: SVM, Random Forest, kNN
-- Focused on biological interpretation alongside model performance
+- DEG analysis from microarray data  
+- Models: SVM, Random Forest, kNN  
+- Emphasis on biological interpretation
 
 ---
 
 ### 🩺 Breast_Cancer_Data_Analysis_Using_ML
 **Exploratory Cancer Gene Expression Project**
-
-- Data preprocessing and exploratory analysis
-- Classification models and evaluation
-- Learning-oriented project to strengthen ML concepts
+- Data preprocessing and classification  
+- Strengthened ML fundamentals
 
 ---
 
 ### 🧬 DNA Methylation Analysis *(Post-Vizzhy)*
-- Analysis of methylation datasets
-- Understanding epigenetic regulation and data interpretation
-- Focus on workflow structure and result reporting
+- Epigenetic data analysis  
+- Focus on workflow structure and interpretation
 
 ---
 
 ### 🧬 ChIP-Seq Analysis *(Post-Vizzhy)*
-- Peak calling and downstream interpretation
-- Linking protein–DNA interactions to gene regulation
-- Strengthening epigenomics fundamentals
+- Peak calling and regulatory interpretation  
+- Protein–DNA interaction analysis
 
 ---
 
 ### 🧪 Lipidomics Data Analysis *(Post-Vizzhy)*
-- Exposure to lipidomics workflows and data formats
-- Understanding quality control, annotation, and reporting
-- Learning challenges specific to lipidomics data standardization
+- Lipidomics data formats, QC, and annotation  
+- Understanding reporting and standardization challenges
 
 ---
 
@@ -139,11 +127,7 @@ Ensembl VEP | SnpEff
 PCA | Heatmaps | Volcano plots | Pathway enrichment
 
 ### 🤖 Introductory Machine Learning
-SVM | Random Forest | kNN  
-*(Applied to biological datasets)*
-
-### 🗃 Databases
-NCBI | Ensembl | UniProt | GeneCards | STRING | PDBsum
+SVM | Random Forest | kNN
 
 ---
 
@@ -153,18 +137,16 @@ NCBI | Ensembl | UniProt | GeneCards | STRING | PDBsum
 - Epigenomics data interpretation  
 - Lipidomics analysis and reporting standards  
 - Workflow validation and documentation  
-- Scientific communication and clear reporting  
+- Scientific communication  
 
 ---
 
 ## 🌐 Connect With Me
 
 📧 **Email**: gayatrisamant05@gmail.com  
-💼 **LinkedIn**: linkedin.com/in/gayatri-samant-0b4362252  
-💻 **GitHub**: github.com/SamantGayatri2002  
+💼 **LinkedIn**: https://www.linkedin.com/in/gayatri-samant-0b4362252  
+💻 **GitHub**: https://github.com/SamantGayatri2002  
 
 ---
 
 ✨ *“I’m building my bioinformatics journey carefully — with honesty, curiosity, and strong foundations.”*
-
-
