@@ -9,7 +9,7 @@
     <td>
       <h2>Hi, I’m Gayatri Samant 👋</h2>
       <p>
-        🎓 <b>Bioinformatics Intern @ Vizzhy</b><br>
+        🎓 <b>Junior Bioinformatician @ Vizzhy</b><br>
         🧬 Genomics • Transcriptomics • Epigenomics • Lipidomics<br>
         🔬 Learning through real datasets, reproducible workflows, and careful reporting
       </p>
@@ -25,7 +25,7 @@
 
 ## 🧬 About Me
 
-I am a **Bioinformatics graduate** currently working as a **Bioinformatics Intern at Vizzhy**.  
+I am a **Bioinformatics graduate** currently working as a **Junior Bioinformatician at Vizzhy**.  
 My background is rooted in **bioinformatics**, and I am gradually strengthening my computational skills through hands-on projects and real-world omics datasets.
 
 I completed my **M.Sc. in Bioinformatics (CGPA: 8.93)** and moved directly into industry to understand how biological data is **analyzed, validated, and reported** beyond academic settings.
@@ -36,8 +36,8 @@ I completed my **M.Sc. in Bioinformatics (CGPA: 8.93)** and moved directly into 
 
 ## 🌿 Current Role
 
-### 🧬 Bioinformatics Intern — **Vizzhy**
-📅 *Oct 2025 – Present*
+### 🧬 Junior Bioinformatician — **Vizzhy**
+📅 *Oct 2026 – Present*
 
 At Vizzhy, I am learning how bioinformatics workflows operate in practice, beyond coursework and tutorials.
 
